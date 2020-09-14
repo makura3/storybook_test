@@ -1,0 +1,9 @@
+.c-button {
+  display: inline-block;
+  line-height: 1;
+
+  &--primary {
+    color: white;
+    background-color: #1ea7fd;
+  }
+}
